@@ -1,0 +1,3 @@
+[submodule "SymbolTest"]
+	path = SymbolTest
+	url = git@github.com:marknote/SymbolTest.git
