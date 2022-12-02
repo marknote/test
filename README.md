@@ -1,3 +1,3 @@
 # submodule-test
 
-[[]]
+sync
