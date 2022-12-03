@@ -7,3 +7,4 @@ new text
 interesting things
 more and more
 another line
+more and more
