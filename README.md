@@ -1,4 +1,5 @@
 # submodule-test
+<<<<<<< HEAD
 
 sync
 more and more
@@ -16,3 +17,6 @@ add from ipad
 another line from ipad
 from ipad pro
 from ipad
+=======
+another line
+>>>>>>> d6ff10884fcd6590de2e3784b5ed74985dcfc593
